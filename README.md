@@ -6,5 +6,5 @@ local; [x]
 3. Fazer Alterações » Adicionar | Commitar | Enviar
 arquivos; [x]
 4. Criar uma nova Branch; [x]
-5. Realizar um Pull Request e Merge; [ ]
-6. Criar nosso primeiro Fork; [ ]
+5. Realizar um Pull Request e Merge; [X]
+6. Criar nosso primeiro Fork; [X]
